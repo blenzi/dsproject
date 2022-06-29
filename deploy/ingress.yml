@@ -5,9 +5,9 @@ metadata:
 spec:
   tls:
   - hosts:
-    - cmv.kub.sspcloud.fr
+    - blenzi-cmv.kub.sspcloud.fr
   rules:
-    - host: cmv.kub.sspcloud.fr
+    - host: blenzi-cmv.kub.sspcloud.fr
       http:
         paths:
           - path: /
