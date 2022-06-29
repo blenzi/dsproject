@@ -19,6 +19,6 @@ spec:
         image: avouacr/socsemics-viz-app
         env:
         - name: BOKEH_ALLOW_WS_ORIGIN
-          value: cmv.kub.sspcloud.fr
+          value: blenzi-cmv.kub.sspcloud.fr
         ports:
         - containerPort: 5006
